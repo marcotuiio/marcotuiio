@@ -9,5 +9,5 @@ Here is what I'm working on:
 - 📫 How to reach me: marcotulio.barros@uel.br
 - ⚡ Fun fact: LOVE playing games and pratice guitar on free time
 
-![Marco Status](https://github-readme-stats.vercel.app/api?username=marcotuiio&show_icons=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuiio&layout=compact)
+![Marco Status](https://github-readme-stats.vercel.app/api?username=marcotuiio&show_icons=true) ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuiio&layout=compact)
+
