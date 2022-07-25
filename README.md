@@ -9,4 +9,3 @@ Here is what I'm working on:
 - 📫 How to reach me: marcotulio.barros@uel.br
 - ⚡ Fun fact: LOVE playing games and pratice guitar on free time
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
