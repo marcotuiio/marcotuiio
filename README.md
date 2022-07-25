@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 Here is what I'm working on: 
 
