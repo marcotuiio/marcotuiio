@@ -8,7 +8,7 @@
 - ⚡ Fun fact: LOVE playing games and pratice guitar on free time
 
 <div style="display: flex; flex-direction: row; align=center">
- <img class="img" style="height: 45%; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=marcotuiio&theme=midnight-purple&show_icons=true" />
+ <img class="img" style="height: 65%; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=marcotuiio&theme=midnight-purple&show_icons=true" />
  
  <img class="img" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuiio&theme=midnight-purple&layout=compact" />
 </div>
