@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-Here is what I'm working on: 
-
 - 🔭 I’m currently working on Flutter mobile aplication
 - 🌱 I’m currently learning lots of stuff
 - 👯 I’m looking to collaborate on Flutter and C
@@ -9,6 +7,8 @@ Here is what I'm working on:
 - 📫 How to reach me: marcotulio.barros@uel.br
 - ⚡ Fun fact: LOVE playing games and pratice guitar on free time
 
-![Marco Status](https://github-readme-stats.vercel.app/api?username=marcotuiio&theme=midnight-purple&show_icons=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuiio&theme=midnight-purple&layout=compact)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=marcotuiio&theme=midnight-purple&show_icons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuiio&theme=midnight-purple&layout=compact" />
+</div>
 
