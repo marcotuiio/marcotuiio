@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning C, Python, Java, MIPS and Excel
-- 📫 How to reach me: marcotulio.barros@uel.br
+- 📫 How to reach me: marcotulio.barros@uel.br or marcotulio-barros@hotmail.com
 - ⚡ Fun fact: LOVE playing games and practice guitar on free time
 
 <div align="center">
