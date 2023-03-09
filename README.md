@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning C, Python, Java, MIPS, R and Excel
+- 🌱 I’m currently learning C, Python, Java, MIPS, R
 - 📫 How to reach me: marcotulio.barros@uel.br or marcotulio-barros@hotmail.com
 - ⚡ Fun fact: LOVE playing games and practice guitar on free time
 
